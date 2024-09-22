@@ -8,8 +8,8 @@ export default function Header() {
   return (
     <div className="flex justify-between md:px-28 py-6">
       <div>
-        <MenuItem title="Home" address="#" Icon={AiFillHome} />
-        <MenuItem title="About" address="#" Icon={BsInfoCircleFill} />
+        <MenuItem title="Home" address="/" Icon={AiFillHome} />
+        <MenuItem title="About" address="/about" Icon={BsInfoCircleFill} />
       </div>
       <div className="inline">
         <DarkModeSwitch />
