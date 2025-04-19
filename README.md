@@ -25,7 +25,7 @@ To run this project locally:
 
 ```bash
 git clone https://github.com/parisapaki/game-hub.git
-cd imdb-movie-app
+cd imdb-project
 npm install
 npm run dev
 
