@@ -24,7 +24,7 @@ TMDb API: Fetches movie data, including ratings, release dates, and more from ht
 To run this project locally:
 
 ```bash
-git clone https://github.com/parisapaki/game-hub.git
+git clone https://github.com/parisapaki/imdb-project.git
 cd imdb-project
 npm install
 npm run dev
