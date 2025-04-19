@@ -18,3 +18,22 @@ Next.js: React framework for building server-side rendered apps
 Tailwind CSS: Utility-first CSS framework for styling and responsiveness
 
 TMDb API: Fetches movie data, including ratings, release dates, and more from https://www.themoviedb.org/
+
+## 🚀 Getting Started
+
+To run this project locally:
+
+```bash
+git clone https://github.com/parisapaki/game-hub.git
+cd imdb-movie-app
+npm install
+npm run dev
+
+```
+
+For production build:
+
+```bash
+npm run build 
+npm run start
+
